@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824060664461",
+    "project_id": "personaapp-fcedc",
+    "storage_bucket": "personaapp-fcedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824060664461:android:c6797624b79ff64a2560c4",
+        "android_client_info": {
+          "package_name": "com.angelsanchue.roomtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824060664461-7j5hbqf65ep1npf0ibhhmhqjt54alfir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXys3MPXCO5B7Ly9Hc3GNTjGc3jDJz0-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824060664461-4i5up57n1gak920vibm8v2jid9ftuu0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

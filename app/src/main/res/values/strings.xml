@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoomTest</string>
+    <string-array name="configs">
+        <item>Configuracion_1</item>
+        <item>Configuracion_2</item>
+        <item>Configuracion_3</item>
+        <item>Configuracion_4</item>
+        <item>Configuracion_5</item>
+        <item>Configuracion_6</item>
+    </string-array>
+</resources>
+
