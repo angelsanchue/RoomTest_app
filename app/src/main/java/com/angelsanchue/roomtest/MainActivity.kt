@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
                 initSettings(dataSettings())
             }
             else{
-                println("No se agregaron las configuraciones")
+                println("No se agregaron las configuraciones s")
             }
         }
 
